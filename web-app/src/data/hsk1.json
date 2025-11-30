@@ -1,0 +1,1233 @@
+[
+    {
+        "lesson": 1,
+        "title": "Say Hello and Goodbye",
+        "resource": {
+            "pdf_file": "HSK 1 Lesson 1 - Lecture Note.pdf",
+            "start_page": 1,
+            "end_page": 5
+        },
+        "vocabulary": [
+            {
+                "hanzi": "你",
+                "pinyin": "nǐ",
+                "meaning": "(singular) you",
+                "part_of_speech": "pron.",
+                "page": 2
+            },
+            {
+                "hanzi": "好",
+                "pinyin": "hǎo",
+                "meaning": "good, fine",
+                "part_of_speech": "adj.",
+                "page": 2
+            },
+            {
+                "hanzi": "老师",
+                "pinyin": "lǎoshī",
+                "meaning": "teacher",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "您",
+                "pinyin": "nín",
+                "meaning": "(polite) you",
+                "part_of_speech": "pron.",
+                "page": 2
+            },
+            {
+                "hanzi": "你们",
+                "pinyin": "nǐmen",
+                "meaning": "(plural) you",
+                "part_of_speech": "pron.",
+                "page": 2
+            },
+            {
+                "hanzi": "再见",
+                "pinyin": "zài jiàn",
+                "meaning": "goodbye",
+                "part_of_speech": "v.",
+                "page": 2
+            },
+            {
+                "hanzi": "我们",
+                "pinyin": "wǒmen",
+                "meaning": "we; us",
+                "part_of_speech": "pron.",
+                "page": 3
+            },
+            {
+                "hanzi": "拜拜",
+                "pinyin": "báibái",
+                "meaning": "bye-bye",
+                "part_of_speech": "transliteration",
+                "page": 5
+            }
+        ]
+    },
+    {
+        "lesson": 2,
+        "title": "Say \"Thank You\" & \"I'm Sorry\"",
+        "resource": {
+            "pdf_file": "HSK 1 Lesson 2 - Lecture Note (PDF Version).pdf",
+            "start_page": 1,
+            "end_page": 6
+        },
+        "vocabulary": [
+            {
+                "hanzi": "对不起",
+                "pinyin": "duìbuqi",
+                "meaning": "to be sorry",
+                "part_of_speech": "v.",
+                "page": 2
+            },
+            {
+                "hanzi": "没关系",
+                "pinyin": "méi guānxi",
+                "meaning": "it doesn't matter; that's OK",
+                "part_of_speech": "phrase",
+                "page": 2
+            },
+            {
+                "hanzi": "谢谢",
+                "pinyin": "xièxie",
+                "meaning": "to thank",
+                "part_of_speech": "v.",
+                "page": 2
+            },
+            {
+                "hanzi": "不客气",
+                "pinyin": "bú kèqi",
+                "meaning": "you're welcome",
+                "part_of_speech": "phrase",
+                "page": 2
+            },
+            {
+                "hanzi": "不",
+                "pinyin": "bù",
+                "meaning": "not; no",
+                "part_of_speech": "adv.",
+                "page": 2
+            },
+            {
+                "hanzi": "用",
+                "pinyin": "yòng",
+                "meaning": "need; use",
+                "part_of_speech": "v.",
+                "page": 2
+            },
+            {
+                "hanzi": "没事",
+                "pinyin": "méi shì",
+                "meaning": "that's OK (colloquial)",
+                "part_of_speech": "phrase",
+                "page": 5
+            },
+            {
+                "hanzi": "不好意思",
+                "pinyin": "bù hǎo yìsi",
+                "meaning": "excuse me; sorry",
+                "part_of_speech": "phrase",
+                "page": 5
+            }
+        ]
+    },
+    {
+        "lesson": 3,
+        "title": "Self-introduction",
+        "resource": {
+            "pdf_file": "HSK 1 Lesson 3 - Lecture Note (PDF Version).pdf",
+            "start_page": 1,
+            "end_page": 9
+        },
+        "vocabulary": [
+            {
+                "hanzi": "我",
+                "pinyin": "wǒ",
+                "meaning": "I; me",
+                "part_of_speech": "pron.",
+                "page": 2
+            },
+            {
+                "hanzi": "叫",
+                "pinyin": "jiào",
+                "meaning": "to call; to be called",
+                "part_of_speech": "v.",
+                "page": 2
+            },
+            {
+                "hanzi": "什么",
+                "pinyin": "shénme",
+                "meaning": "what",
+                "part_of_speech": "pron.",
+                "page": 2
+            },
+            {
+                "hanzi": "名字",
+                "pinyin": "míngzi",
+                "meaning": "name",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "是",
+                "pinyin": "shì",
+                "meaning": "to be (am, is, are)",
+                "part_of_speech": "v.",
+                "page": 2
+            },
+            {
+                "hanzi": "中国人",
+                "pinyin": "zhōngguó rén",
+                "meaning": "Chinese person",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "吗",
+                "pinyin": "ma",
+                "meaning": "question particle (yes/no)",
+                "part_of_speech": "part.",
+                "page": 2
+            },
+            {
+                "hanzi": "很",
+                "pinyin": "hěn",
+                "meaning": "very; quite",
+                "part_of_speech": "adv.",
+                "page": 2
+            },
+            {
+                "hanzi": "高兴",
+                "pinyin": "gāoxìng",
+                "meaning": "happy; glad",
+                "part_of_speech": "adj.",
+                "page": 2
+            },
+            {
+                "hanzi": "认识",
+                "pinyin": "rènshi",
+                "meaning": "to know; to meet",
+                "part_of_speech": "v.",
+                "page": 2
+            }
+        ]
+    },
+    {
+        "lesson": 4,
+        "title": "Introducing other people",
+        "resource": {
+            "pdf_file": "HSK 1 Lesson 4 - Lecture Note (PDF Version).pdf",
+            "start_page": 1,
+            "end_page": 9
+        },
+        "vocabulary": [
+            {
+                "hanzi": "他",
+                "pinyin": "tā",
+                "meaning": "he, him",
+                "part_of_speech": "pron.",
+                "page": 2
+            },
+            {
+                "hanzi": "谁",
+                "pinyin": "shéi",
+                "meaning": "who, whom",
+                "part_of_speech": "pron.",
+                "page": 2
+            },
+            {
+                "hanzi": "的",
+                "pinyin": "de",
+                "meaning": "particle (used after an attribute)",
+                "part_of_speech": "part.",
+                "page": 2
+            },
+            {
+                "hanzi": "同学",
+                "pinyin": "tóngxué",
+                "meaning": "classmate",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "哪",
+                "pinyin": "nǎ",
+                "meaning": "which",
+                "part_of_speech": "pron.",
+                "page": 2
+            },
+            {
+                "hanzi": "美国",
+                "pinyin": "Měiguó",
+                "meaning": "The United States of America",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "爸爸",
+                "pinyin": "bàba",
+                "meaning": "father, dad",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "和",
+                "pinyin": "hé",
+                "meaning": "and",
+                "part_of_speech": "conj.",
+                "page": 2
+            },
+            {
+                "hanzi": "妈妈",
+                "pinyin": "māma",
+                "meaning": "mother, mom",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "她",
+                "pinyin": "tā",
+                "meaning": "she, her",
+                "part_of_speech": "pron.",
+                "page": 2
+            },
+            {
+                "hanzi": "呢",
+                "pinyin": "ne",
+                "meaning": "particle (used at end of question)",
+                "part_of_speech": "part.",
+                "page": 2
+            },
+            {
+                "hanzi": "学生",
+                "pinyin": "xuésheng",
+                "meaning": "student",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "小姐",
+                "pinyin": "xiǎojiě",
+                "meaning": "miss, young lady",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "月亮",
+                "pinyin": "yuèliàng",
+                "meaning": "moon",
+                "part_of_speech": "n.",
+                "page": 7
+            },
+            {
+                "hanzi": "麻雀",
+                "pinyin": "máquè",
+                "meaning": "sparrow",
+                "part_of_speech": "n.",
+                "page": 7
+            }
+        ]
+    },
+    {
+        "lesson": 5,
+        "title": "Talking about One's Family and Age",
+        "resource": {
+            "pdf_file": "HSK 1 Lesson 5 - Lecture Note (PDF Version).pdf",
+            "start_page": 1,
+            "end_page": 11
+        },
+        "vocabulary": [
+            {
+                "hanzi": "家",
+                "pinyin": "jiā",
+                "meaning": "family; home",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "有",
+                "pinyin": "yǒu",
+                "meaning": "to have; there be",
+                "part_of_speech": "v.",
+                "page": 2
+            },
+            {
+                "hanzi": "几",
+                "pinyin": "jǐ",
+                "meaning": "how many",
+                "part_of_speech": "pron.",
+                "page": 2
+            },
+            {
+                "hanzi": "口",
+                "pinyin": "kǒu",
+                "meaning": "measure word for family members",
+                "part_of_speech": "m.w.",
+                "page": 2
+            },
+            {
+                "hanzi": "妹妹",
+                "pinyin": "mèimei",
+                "meaning": "younger sister",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "岁",
+                "pinyin": "suì",
+                "meaning": "year (of age)",
+                "part_of_speech": "m.w.",
+                "page": 2
+            },
+            {
+                "hanzi": "了",
+                "pinyin": "le",
+                "meaning": "particle indicating change",
+                "part_of_speech": "part.",
+                "page": 2
+            },
+            {
+                "hanzi": "今年",
+                "pinyin": "jīnnián",
+                "meaning": "this year",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "多",
+                "pinyin": "duō",
+                "meaning": "indicating degree/extent",
+                "part_of_speech": "adv.",
+                "page": 3
+            },
+            {
+                "hanzi": "大",
+                "pinyin": "dà",
+                "meaning": "(of age) old; big",
+                "part_of_speech": "adj.",
+                "page": 3
+            },
+            {
+                "hanzi": "漂亮",
+                "pinyin": "piàoliang",
+                "meaning": "beautiful; pretty",
+                "part_of_speech": "adj.",
+                "page": 3
+            },
+            {
+                "hanzi": "做",
+                "pinyin": "zuò",
+                "meaning": "to make; to produce",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "朋友",
+                "pinyin": "péngyou",
+                "meaning": "friend",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "狗",
+                "pinyin": "gǒu",
+                "meaning": "dog",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "它",
+                "pinyin": "tā",
+                "meaning": "it",
+                "part_of_speech": "pron.",
+                "page": 3
+            }
+        ]
+    },
+    {
+        "lesson": 6,
+        "title": "Job and Ability",
+        "resource": {
+            "pdf_file": "HSK 1 Lesson 6 - Lecture Note (PDF Version).pdf",
+            "start_page": 1,
+            "end_page": 8
+        },
+        "vocabulary": [
+            {
+                "hanzi": "在",
+                "pinyin": "zài",
+                "meaning": "to be at/in/on",
+                "part_of_speech": "v./prep.",
+                "page": 2
+            },
+            {
+                "hanzi": "哪儿",
+                "pinyin": "nǎr",
+                "meaning": "where",
+                "part_of_speech": "pron.",
+                "page": 2
+            },
+            {
+                "hanzi": "工作",
+                "pinyin": "gōngzuò",
+                "meaning": "to work; job",
+                "part_of_speech": "v./n.",
+                "page": 2
+            },
+            {
+                "hanzi": "学校",
+                "pinyin": "xuéxiào",
+                "meaning": "school",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "医院",
+                "pinyin": "yīyuàn",
+                "meaning": "hospital",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "医生",
+                "pinyin": "yīshēng",
+                "meaning": "doctor",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "儿子",
+                "pinyin": "érzi",
+                "meaning": "son",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "会",
+                "pinyin": "huì",
+                "meaning": "can; be able to",
+                "part_of_speech": "v.",
+                "page": 2
+            },
+            {
+                "hanzi": "说",
+                "pinyin": "shuō",
+                "meaning": "to speak; to say",
+                "part_of_speech": "v.",
+                "page": 2
+            },
+            {
+                "hanzi": "汉语",
+                "pinyin": "Hànyǔ",
+                "meaning": "Chinese language",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "女儿",
+                "pinyin": "nǚ'ér",
+                "meaning": "daughter",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "一点儿",
+                "pinyin": "yìdiǎnr",
+                "meaning": "a little; a bit",
+                "part_of_speech": "num.-m.",
+                "page": 2
+            },
+            {
+                "hanzi": "读",
+                "pinyin": "dú",
+                "meaning": "to read",
+                "part_of_speech": "v.",
+                "page": 2
+            }
+        ]
+    },
+    {
+        "lesson": 7,
+        "title": "Asking for Time and Date",
+        "resource": {
+            "pdf_file": "HSK 1 Lesson 7 - Lecture Note (PDF Version).pdf",
+            "start_page": 1,
+            "end_page": 9
+        },
+        "vocabulary": [
+            {
+                "hanzi": "现在",
+                "pinyin": "xiànzài",
+                "meaning": "now",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "点",
+                "pinyin": "diǎn",
+                "meaning": "o'clock",
+                "part_of_speech": "m.w.",
+                "page": 2
+            },
+            {
+                "hanzi": "分",
+                "pinyin": "fēn",
+                "meaning": "minute",
+                "part_of_speech": "m.w.",
+                "page": 2
+            },
+            {
+                "hanzi": "下午",
+                "pinyin": "xiàwǔ",
+                "meaning": "afternoon",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "去",
+                "pinyin": "qù",
+                "meaning": "to go",
+                "part_of_speech": "v.",
+                "page": 2
+            },
+            {
+                "hanzi": "看",
+                "pinyin": "kàn",
+                "meaning": "to look; to watch",
+                "part_of_speech": "v.",
+                "page": 2
+            },
+            {
+                "hanzi": "电影",
+                "pinyin": "diànyǐng",
+                "meaning": "movie; film",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "回",
+                "pinyin": "huí",
+                "meaning": "to return; go back",
+                "part_of_speech": "v.",
+                "page": 2
+            },
+            {
+                "hanzi": "半",
+                "pinyin": "bàn",
+                "meaning": "half",
+                "part_of_speech": "num.",
+                "page": 3
+            },
+            {
+                "hanzi": "今天",
+                "pinyin": "jīntiān",
+                "meaning": "today",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "号",
+                "pinyin": "hào",
+                "meaning": "date (day of month)",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "月",
+                "pinyin": "yuè",
+                "meaning": "month",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "星期",
+                "pinyin": "xīngqī",
+                "meaning": "week",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "能",
+                "pinyin": "néng",
+                "meaning": "can; be able to",
+                "part_of_speech": "v.",
+                "page": 3
+            }
+        ]
+    },
+    {
+        "lesson": 8,
+        "title": "Shopping",
+        "resource": {
+            "pdf_file": "HSK 1 Lesson 8 - Lecture Note (PDF Version).pdf",
+            "start_page": 1,
+            "end_page": 10
+        },
+        "vocabulary": [
+            {
+                "hanzi": "明天",
+                "pinyin": "míngtiān",
+                "meaning": "tomorrow",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "想",
+                "pinyin": "xiǎng",
+                "meaning": "to want; would like",
+                "part_of_speech": "mod.",
+                "page": 2
+            },
+            {
+                "hanzi": "商店",
+                "pinyin": "shāngdiàn",
+                "meaning": "shop; store",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "买",
+                "pinyin": "mǎi",
+                "meaning": "to buy",
+                "part_of_speech": "v.",
+                "page": 2
+            },
+            {
+                "hanzi": "东西",
+                "pinyin": "dōngxi",
+                "meaning": "thing; stuff",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "本",
+                "pinyin": "běn",
+                "meaning": "m.w. for books",
+                "part_of_speech": "m.w.",
+                "page": 2
+            },
+            {
+                "hanzi": "书",
+                "pinyin": "shū",
+                "meaning": "book",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "这",
+                "pinyin": "zhè",
+                "meaning": "this",
+                "part_of_speech": "pron.",
+                "page": 2
+            },
+            {
+                "hanzi": "多少",
+                "pinyin": "duōshao",
+                "meaning": "how much; how many",
+                "part_of_speech": "pron.",
+                "page": 2
+            },
+            {
+                "hanzi": "钱",
+                "pinyin": "qián",
+                "meaning": "money",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "块",
+                "pinyin": "kuài",
+                "meaning": "unit of currency (yuan)",
+                "part_of_speech": "m.w.",
+                "page": 2
+            },
+            {
+                "hanzi": "那",
+                "pinyin": "nà",
+                "meaning": "that",
+                "part_of_speech": "pron.",
+                "page": 2
+            },
+            {
+                "hanzi": "昨天",
+                "pinyin": "zuótiān",
+                "meaning": "yesterday",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "个",
+                "pinyin": "gè",
+                "meaning": "general measure word",
+                "part_of_speech": "m.w.",
+                "page": 3
+            },
+            {
+                "hanzi": "杯子",
+                "pinyin": "bēizi",
+                "meaning": "cup; glass",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "些",
+                "pinyin": "xiē",
+                "meaning": "some; several",
+                "part_of_speech": "m.w.",
+                "page": 3
+            }
+        ]
+    },
+    {
+        "lesson": 9,
+        "title": "Indicating Positions",
+        "resource": {
+            "pdf_file": "HSK 1 Lesson 9 - Lecture Note (PDF Version).pdf",
+            "start_page": 1,
+            "end_page": 9
+        },
+        "vocabulary": [
+            {
+                "hanzi": "看见",
+                "pinyin": "kànjiàn",
+                "meaning": "to see",
+                "part_of_speech": "v.",
+                "page": 2
+            },
+            {
+                "hanzi": "小",
+                "pinyin": "xiǎo",
+                "meaning": "small; little",
+                "part_of_speech": "adj.",
+                "page": 2
+            },
+            {
+                "hanzi": "猫",
+                "pinyin": "māo",
+                "meaning": "cat",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "椅子",
+                "pinyin": "yǐzi",
+                "meaning": "chair",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "下",
+                "pinyin": "xià",
+                "meaning": "under; below",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "睡觉",
+                "pinyin": "shuìjiào",
+                "meaning": "to sleep",
+                "part_of_speech": "v.",
+                "page": 2
+            },
+            {
+                "hanzi": "桌子",
+                "pinyin": "zhuōzi",
+                "meaning": "table",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "上",
+                "pinyin": "shang",
+                "meaning": "up; above; on",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "分钟",
+                "pinyin": "fēnzhōng",
+                "meaning": "minute (duration)",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "水果",
+                "pinyin": "shuǐguǒ",
+                "meaning": "fruit",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "都",
+                "pinyin": "dōu",
+                "meaning": "both; all",
+                "part_of_speech": "adv.",
+                "page": 3
+            },
+            {
+                "hanzi": "爱",
+                "pinyin": "ài",
+                "meaning": "to love",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "吃",
+                "pinyin": "chī",
+                "meaning": "to eat",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "前面",
+                "pinyin": "qiánmiàn",
+                "meaning": "front",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "后面",
+                "pinyin": "hòumiàn",
+                "meaning": "back; behind",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "里",
+                "pinyin": "lǐ",
+                "meaning": "inside",
+                "part_of_speech": "n.",
+                "page": 3
+            }
+        ]
+    },
+    {
+        "lesson": 10,
+        "title": "Talking about the Weather",
+        "resource": {
+            "pdf_file": "HSK 1 Lesson 10 - Lecture Note (PDF Version).pdf",
+            "start_page": 1,
+            "end_page": 8
+        },
+        "vocabulary": [
+            {
+                "hanzi": "天气",
+                "pinyin": "tiānqì",
+                "meaning": "weather",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "怎么样",
+                "pinyin": "zěnmeyàng",
+                "meaning": "how",
+                "part_of_speech": "pron.",
+                "page": 2
+            },
+            {
+                "hanzi": "冷",
+                "pinyin": "lěng",
+                "meaning": "cold",
+                "part_of_speech": "adj.",
+                "page": 2
+            },
+            {
+                "hanzi": "热",
+                "pinyin": "rè",
+                "meaning": "hot",
+                "part_of_speech": "adj.",
+                "page": 2
+            },
+            {
+                "hanzi": "下雨",
+                "pinyin": "xià yǔ",
+                "meaning": "to rain",
+                "part_of_speech": "v.",
+                "page": 2
+            },
+            {
+                "hanzi": "我们",
+                "pinyin": "wǒmen",
+                "meaning": "we; us",
+                "part_of_speech": "pron.",
+                "page": 2
+            },
+            {
+                "hanzi": "上午",
+                "pinyin": "shàngwǔ",
+                "meaning": "morning",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "怎么",
+                "pinyin": "zěnme",
+                "meaning": "how",
+                "part_of_speech": "pron.",
+                "page": 2
+            },
+            {
+                "hanzi": "出租车",
+                "pinyin": "chūzūchē",
+                "meaning": "taxi",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "坐",
+                "pinyin": "zuò",
+                "meaning": "to sit; to take (transport)",
+                "part_of_speech": "v.",
+                "page": 2
+            },
+            {
+                "hanzi": "太",
+                "pinyin": "tài",
+                "meaning": "too; excessively",
+                "part_of_speech": "adv.",
+                "page": 2
+            },
+            {
+                "hanzi": "开",
+                "pinyin": "kāi",
+                "meaning": "to drive; to open",
+                "part_of_speech": "v.",
+                "page": 2
+            },
+            {
+                "hanzi": "电脑",
+                "pinyin": "diànnǎo",
+                "meaning": "computer",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "衣服",
+                "pinyin": "yīfu",
+                "meaning": "clothes",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "少",
+                "pinyin": "shǎo",
+                "meaning": "few; little",
+                "part_of_speech": "adj.",
+                "page": 2
+            }
+        ]
+    },
+    {
+        "lesson": 11,
+        "title": "Making Phone Calls",
+        "resource": {
+            "pdf_file": "HSK 1 Lesson 11 - Lecture Note (PDF Version).pdf",
+            "start_page": 1,
+            "end_page": 8
+        },
+        "vocabulary": [
+            {
+                "hanzi": "喂",
+                "pinyin": "wèi",
+                "meaning": "hello (on phone)",
+                "part_of_speech": "int.",
+                "page": 3
+            },
+            {
+                "hanzi": "请",
+                "pinyin": "qǐng",
+                "meaning": "please",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "问",
+                "pinyin": "wèn",
+                "meaning": "to ask",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "时候",
+                "pinyin": "shíhou",
+                "meaning": "time; moment",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "打电话",
+                "pinyin": "dǎ diànhuà",
+                "meaning": "make a phone call",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "学习",
+                "pinyin": "xuéxí",
+                "meaning": "to learn; to study",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "写",
+                "pinyin": "xiě",
+                "meaning": "to write",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "字",
+                "pinyin": "zì",
+                "meaning": "character",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "电视",
+                "pinyin": "diànshì",
+                "meaning": "TV",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "中午",
+                "pinyin": "zhōngwǔ",
+                "meaning": "noon",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "菜",
+                "pinyin": "cài",
+                "meaning": "dish; food",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "喜欢",
+                "pinyin": "xǐhuan",
+                "meaning": "to like",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "先生",
+                "pinyin": "xiānsheng",
+                "meaning": "sir; Mr.",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "听",
+                "pinyin": "tīng",
+                "meaning": "to listen",
+                "part_of_speech": "v.",
+                "page": 3
+            }
+        ]
+    },
+    {
+        "lesson": 12,
+        "title": "Meeting Friends",
+        "resource": {
+            "pdf_file": "HSK 1 Lesson 12 - Lecture Note (PDF Version).pdf",
+            "start_page": 1,
+            "end_page": 8
+        },
+        "vocabulary": [
+            {
+                "hanzi": "来",
+                "pinyin": "lái",
+                "meaning": "to come",
+                "part_of_speech": "v.",
+                "page": 2
+            },
+            {
+                "hanzi": "北京",
+                "pinyin": "Běijīng",
+                "meaning": "Beijing",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "飞机",
+                "pinyin": "fēijī",
+                "meaning": "airplane",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "喝",
+                "pinyin": "hē",
+                "meaning": "to drink",
+                "part_of_speech": "v.",
+                "page": 2
+            },
+            {
+                "hanzi": "茶",
+                "pinyin": "chá",
+                "meaning": "tea",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "水",
+                "pinyin": "shuǐ",
+                "meaning": "water",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "苹果",
+                "pinyin": "píngguǒ",
+                "meaning": "apple",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "年",
+                "pinyin": "nián",
+                "meaning": "year",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "没有",
+                "pinyin": "méiyǒu",
+                "meaning": "not; there be no",
+                "part_of_speech": "adv.",
+                "page": 3
+            },
+            {
+                "hanzi": "见面",
+                "pinyin": "jiànmiàn",
+                "meaning": "to meet",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "住",
+                "pinyin": "zhù",
+                "meaning": "to live",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "饭店",
+                "pinyin": "fàndiàn",
+                "meaning": "restaurant; hotel",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "米饭",
+                "pinyin": "mǐfàn",
+                "meaning": "rice (cooked)",
+                "part_of_speech": "n.",
+                "page": 3
+            }
+        ]
+    }
+]

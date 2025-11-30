@@ -1,0 +1,1443 @@
+[
+    {
+        "lesson": 1,
+        "title": "Pick up friends at the airport",
+        "resource": {
+            "pdf_file": "HSK 2 Lesson 1 - Lecture Note (Ebook).pdf",
+            "start_page": 1,
+            "end_page": 9
+        },
+        "vocabulary": [
+            {
+                "hanzi": "早上",
+                "pinyin": "zǎoshang",
+                "meaning": "morning",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "机场",
+                "pinyin": "jīchǎng",
+                "meaning": "airport",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "接",
+                "pinyin": "jiē",
+                "meaning": "to receive, to pick up",
+                "part_of_speech": "v.",
+                "page": 2
+            },
+            {
+                "hanzi": "到",
+                "pinyin": "dào",
+                "meaning": "to arrive, to reach",
+                "part_of_speech": "v.",
+                "page": 2
+            },
+            {
+                "hanzi": "已经",
+                "pinyin": "yǐjīng",
+                "meaning": "already",
+                "part_of_speech": "adv.",
+                "page": 2
+            },
+            {
+                "hanzi": "出",
+                "pinyin": "chū",
+                "meaning": "to come/go out",
+                "part_of_speech": "v.",
+                "page": 2
+            },
+            {
+                "hanzi": "穿",
+                "pinyin": "chuān",
+                "meaning": "to wear, to put on",
+                "part_of_speech": "v.",
+                "page": 2
+            },
+            {
+                "hanzi": "着",
+                "pinyin": "zhe",
+                "meaning": "particle indicating a state",
+                "part_of_speech": "part.",
+                "page": 2
+            },
+            {
+                "hanzi": "红(色)",
+                "pinyin": "hóng (sè)",
+                "meaning": "red",
+                "part_of_speech": "adj.",
+                "page": 2
+            },
+            {
+                "hanzi": "介绍",
+                "pinyin": "jièshào",
+                "meaning": "to introduce",
+                "part_of_speech": "v.",
+                "page": 2
+            },
+            {
+                "hanzi": "一下",
+                "pinyin": "yíxià",
+                "meaning": "indicating an act or attempt",
+                "part_of_speech": "num.-m.",
+                "page": 2
+            },
+            {
+                "hanzi": "妻子",
+                "pinyin": "qīzi",
+                "meaning": "wife",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "孩子",
+                "pinyin": "háizi",
+                "meaning": "child, kid",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "丈夫",
+                "pinyin": "zhàngfu",
+                "meaning": "husband",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "欢迎",
+                "pinyin": "huānyíng",
+                "meaning": "to welcome",
+                "part_of_speech": "v.",
+                "page": 2
+            }
+        ]
+    },
+    {
+        "lesson": 2,
+        "title": "Look at the Apartment",
+        "resource": {
+            "pdf_file": "HSK 2 Lesson 2 - Lecture Note (Ebook).pdf",
+            "start_page": 1,
+            "end_page": 9
+        },
+        "vocabulary": [
+            {
+                "hanzi": "给",
+                "pinyin": "gěi",
+                "meaning": "to, for",
+                "part_of_speech": "prep.",
+                "page": 2
+            },
+            {
+                "hanzi": "找",
+                "pinyin": "zhǎo",
+                "meaning": "to look for",
+                "part_of_speech": "v.",
+                "page": 2
+            },
+            {
+                "hanzi": "房子",
+                "pinyin": "fángzi",
+                "meaning": "house, apartment",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "真",
+                "pinyin": "zhēn",
+                "meaning": "really, indeed",
+                "part_of_speech": "adv.",
+                "page": 2
+            },
+            {
+                "hanzi": "离",
+                "pinyin": "lí",
+                "meaning": "to be away from",
+                "part_of_speech": "v.",
+                "page": 2
+            },
+            {
+                "hanzi": "公司",
+                "pinyin": "gōngsī",
+                "meaning": "company, firm",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "近",
+                "pinyin": "jìn",
+                "meaning": "near, close",
+                "part_of_speech": "adj.",
+                "page": 2
+            },
+            {
+                "hanzi": "也",
+                "pinyin": "yě",
+                "meaning": "also, too",
+                "part_of_speech": "adv.",
+                "page": 2
+            },
+            {
+                "hanzi": "千",
+                "pinyin": "qiān",
+                "meaning": "thousand",
+                "part_of_speech": "num.",
+                "page": 2
+            },
+            {
+                "hanzi": "房间",
+                "pinyin": "fángjiān",
+                "meaning": "room",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "每",
+                "pinyin": "měi",
+                "meaning": "every, each",
+                "part_of_speech": "pron.",
+                "page": 2
+            },
+            {
+                "hanzi": "公共汽车",
+                "pinyin": "gōnggòng qìchē",
+                "meaning": "bus",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "站",
+                "pinyin": "zhàn",
+                "meaning": "stop, station",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "两",
+                "pinyin": "liǎng",
+                "meaning": "two",
+                "part_of_speech": "num.",
+                "page": 3
+            },
+            {
+                "hanzi": "百",
+                "pinyin": "bǎi",
+                "meaning": "hundred",
+                "part_of_speech": "num.",
+                "page": 3
+            },
+            {
+                "hanzi": "米",
+                "pinyin": "mǐ",
+                "meaning": "meter",
+                "part_of_speech": "m.w.",
+                "page": 3
+            },
+            {
+                "hanzi": "超市",
+                "pinyin": "chāoshì",
+                "meaning": "supermarket",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "远",
+                "pinyin": "yuǎn",
+                "meaning": "far, distant",
+                "part_of_speech": "adj.",
+                "page": 3
+            },
+            {
+                "hanzi": "旁边",
+                "pinyin": "pángbiān",
+                "meaning": "beside",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "走",
+                "pinyin": "zǒu",
+                "meaning": "to walk",
+                "part_of_speech": "v.",
+                "page": 3
+            }
+        ]
+    },
+    {
+        "lesson": 3,
+        "title": "Go to company",
+        "resource": {
+            "pdf_file": "HSK 2 Lesson 3 - Lecture Note (Ebook).pdf",
+            "start_page": 1,
+            "end_page": 6
+        },
+        "vocabulary": [
+            {
+                "hanzi": "要",
+                "pinyin": "yào",
+                "meaning": "to want to, would like to",
+                "part_of_speech": "mod.",
+                "page": 2
+            },
+            {
+                "hanzi": "牛奶",
+                "pinyin": "niúnǎi",
+                "meaning": "milk",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "咖啡",
+                "pinyin": "kāfēi",
+                "meaning": "coffee",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "第一",
+                "pinyin": "dì yī",
+                "meaning": "first",
+                "part_of_speech": "num.",
+                "page": 2
+            },
+            {
+                "hanzi": "新",
+                "pinyin": "xīn",
+                "meaning": "new",
+                "part_of_speech": "adj.",
+                "page": 2
+            },
+            {
+                "hanzi": "上班",
+                "pinyin": "shàng bān",
+                "meaning": "to work, to do a job",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "再",
+                "pinyin": "zài",
+                "meaning": "again, once more",
+                "part_of_speech": "adv.",
+                "page": 3
+            },
+            {
+                "hanzi": "别",
+                "pinyin": "bié",
+                "meaning": "don't, stop",
+                "part_of_speech": "adv.",
+                "page": 3
+            },
+            {
+                "hanzi": "对",
+                "pinyin": "duì",
+                "meaning": "to, for",
+                "part_of_speech": "prep.",
+                "page": 3
+            },
+            {
+                "hanzi": "身体",
+                "pinyin": "shēntǐ",
+                "meaning": "body, health",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "报纸",
+                "pinyin": "bàozhǐ",
+                "meaning": "newspaper",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "迟到",
+                "pinyin": "chídào",
+                "meaning": "to be late",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "等",
+                "pinyin": "děng",
+                "meaning": "to wait",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "送",
+                "pinyin": "sòng",
+                "meaning": "to send, to deliver",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "可以",
+                "pinyin": "kěyǐ",
+                "meaning": "can",
+                "part_of_speech": "mod.",
+                "page": 3
+            },
+            {
+                "hanzi": "快",
+                "pinyin": "kuài",
+                "meaning": "quick, fast",
+                "part_of_speech": "adj.",
+                "page": 3
+            },
+            {
+                "hanzi": "进",
+                "pinyin": "jìn",
+                "meaning": "to enter",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "大家",
+                "pinyin": "dàjiā",
+                "meaning": "all, everybody",
+                "part_of_speech": "pron.",
+                "page": 3
+            },
+            {
+                "hanzi": "姓",
+                "pinyin": "xìng",
+                "meaning": "family name, surname",
+                "part_of_speech": "v.",
+                "page": 3
+            }
+        ]
+    },
+    {
+        "lesson": 4,
+        "title": "Find a Chinese School",
+        "resource": {
+            "pdf_file": "HSK 2 Lesson 4 - Lecture Note (Ebook).pdf",
+            "start_page": 1,
+            "end_page": 9
+        },
+        "vocabulary": [
+            {
+                "hanzi": "正在",
+                "pinyin": "zhèngzài",
+                "meaning": "in the process of",
+                "part_of_speech": "adv.",
+                "page": 2
+            },
+            {
+                "hanzi": "虽然",
+                "pinyin": "suīrán",
+                "meaning": "although, though",
+                "part_of_speech": "conj.",
+                "page": 2
+            },
+            {
+                "hanzi": "但是",
+                "pinyin": "dànshì",
+                "meaning": "but, still, yet",
+                "part_of_speech": "conj.",
+                "page": 2
+            },
+            {
+                "hanzi": "晚上",
+                "pinyin": "wǎnshang",
+                "meaning": "evening, night",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "开始",
+                "pinyin": "kāishǐ",
+                "meaning": "to begin, to start",
+                "part_of_speech": "v.",
+                "page": 2
+            },
+            {
+                "hanzi": "课",
+                "pinyin": "kè",
+                "meaning": "class, lesson",
+                "part_of_speech": "n.",
+                "page": 2
+            },
+            {
+                "hanzi": "让",
+                "pinyin": "ràng",
+                "meaning": "to ask, to let, to allow",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "帮助",
+                "pinyin": "bāngzhù",
+                "meaning": "to help, to assist",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "懂",
+                "pinyin": "dǒng",
+                "meaning": "to understand",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "长",
+                "pinyin": "cháng",
+                "meaning": "long",
+                "part_of_speech": "adj.",
+                "page": 3
+            },
+            {
+                "hanzi": "时间",
+                "pinyin": "shíjiān",
+                "meaning": "time",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "休息",
+                "pinyin": "xiūxi",
+                "meaning": "to take a rest",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "吧",
+                "pinyin": "ba",
+                "meaning": "suggestion particle",
+                "part_of_speech": "part.",
+                "page": 3
+            }
+        ]
+    },
+    {
+        "lesson": 5,
+        "title": "Who Speaks Chinese the Best",
+        "resource": {
+            "pdf_file": "HSK 2 Lesson 5 - Lecture Note (Ebook).pdf",
+            "start_page": 1,
+            "end_page": 11
+        },
+        "vocabulary": [
+            {
+                "hanzi": "班",
+                "pinyin": "bān",
+                "meaning": "class, grade, team",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "男",
+                "pinyin": "nán",
+                "meaning": "male",
+                "part_of_speech": "adj.",
+                "page": 3
+            },
+            {
+                "hanzi": "女",
+                "pinyin": "nǚ",
+                "meaning": "female",
+                "part_of_speech": "adj.",
+                "page": 3
+            },
+            {
+                "hanzi": "觉得",
+                "pinyin": "juéde",
+                "meaning": "to think, to feel",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "得",
+                "pinyin": "de",
+                "meaning": "complement particle",
+                "part_of_speech": "part.",
+                "page": 3
+            },
+            {
+                "hanzi": "最",
+                "pinyin": "zuì",
+                "meaning": "most, to the greatest extent",
+                "part_of_speech": "adv.",
+                "page": 3
+            },
+            {
+                "hanzi": "哥哥",
+                "pinyin": "gēge",
+                "meaning": "elder brother",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "起床",
+                "pinyin": "qǐ chuáng",
+                "meaning": "to get up",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "考试",
+                "pinyin": "kǎo shì",
+                "meaning": "test, exam",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "教室",
+                "pinyin": "jiàoshì",
+                "meaning": "classroom",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "零",
+                "pinyin": "líng",
+                "meaning": "zero",
+                "part_of_speech": "num.",
+                "page": 3
+            },
+            {
+                "hanzi": "妹妹",
+                "pinyin": "mèimei",
+                "meaning": "younger sister",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "为什么",
+                "pinyin": "wèi shénme",
+                "meaning": "why",
+                "part_of_speech": "pron.",
+                "page": 3
+            },
+            {
+                "hanzi": "道",
+                "pinyin": "dào",
+                "meaning": "measure word for questions",
+                "part_of_speech": "m.",
+                "page": 3
+            },
+            {
+                "hanzi": "题",
+                "pinyin": "tí",
+                "meaning": "question, problem",
+                "part_of_speech": "n.",
+                "page": 3
+            }
+        ]
+    },
+    {
+        "lesson": 6,
+        "title": "Planning a Trip",
+        "resource": {
+            "pdf_file": "HSK 2 Lesson 6 - Lecture Note (Ebook).pdf",
+            "start_page": 1,
+            "end_page": 9
+        },
+        "vocabulary": [
+            {
+                "hanzi": "准备",
+                "pinyin": "zhǔnbèi",
+                "meaning": "to intend, to plan",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "旅游",
+                "pinyin": "lǚyóu",
+                "meaning": "to travel, to take a trip",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "可能",
+                "pinyin": "kěnéng",
+                "meaning": "maybe, perhaps",
+                "part_of_speech": "aux.",
+                "page": 3
+            },
+            {
+                "hanzi": "泰国",
+                "pinyin": "Tàiguó",
+                "meaning": "Thailand",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "过",
+                "pinyin": "guo",
+                "meaning": "indicates a past experience",
+                "part_of_speech": "part.",
+                "page": 3
+            },
+            {
+                "hanzi": "便宜",
+                "pinyin": "piányi",
+                "meaning": "cheap, inexpensive",
+                "part_of_speech": "adj.",
+                "page": 3
+            },
+            {
+                "hanzi": "日",
+                "pinyin": "rì",
+                "meaning": "day, date",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "从",
+                "pinyin": "cóng",
+                "meaning": "from",
+                "part_of_speech": "prep.",
+                "page": 3
+            },
+            {
+                "hanzi": "小时",
+                "pinyin": "xiǎoshí",
+                "meaning": "hour",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "火车",
+                "pinyin": "huǒchē",
+                "meaning": "train",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "票",
+                "pinyin": "piào",
+                "meaning": "ticket",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "火车站",
+                "pinyin": "huǒchē zhàn",
+                "meaning": "railway station",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "手机",
+                "pinyin": "shǒujī",
+                "meaning": "cell phone",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "告诉",
+                "pinyin": "gàosù",
+                "meaning": "to tell",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "知道",
+                "pinyin": "zhīdào",
+                "meaning": "to know",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "以后",
+                "pinyin": "yǐhòu",
+                "meaning": "after, afterwards",
+                "part_of_speech": "n.",
+                "page": 3
+            }
+        ]
+    },
+    {
+        "lesson": 7,
+        "title": "Talking about travel",
+        "resource": {
+            "pdf_file": "HSK 2 Lesson 7 - Lecture Note (Ebook).pdf",
+            "start_page": 1,
+            "end_page": 9
+        },
+        "vocabulary": [
+            {
+                "hanzi": "快乐",
+                "pinyin": "kuàilè",
+                "meaning": "happy",
+                "part_of_speech": "adj.",
+                "page": 3
+            },
+            {
+                "hanzi": "礼物",
+                "pinyin": "lǐwù",
+                "meaning": "gift, present",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "手表",
+                "pinyin": "shǒubiǎo",
+                "meaning": "watch",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "非常",
+                "pinyin": "fēicháng",
+                "meaning": "very",
+                "part_of_speech": "adv.",
+                "page": 3
+            },
+            {
+                "hanzi": "玩儿",
+                "pinyin": "wánr",
+                "meaning": "to play",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "还",
+                "pinyin": "hái",
+                "meaning": "passably; fairly",
+                "part_of_speech": "adv.",
+                "page": 3
+            },
+            {
+                "hanzi": "去年",
+                "pinyin": "qùnián",
+                "meaning": "last year",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "雪",
+                "pinyin": "xuě",
+                "meaning": "snow",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "路",
+                "pinyin": "lù",
+                "meaning": "road, way",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "白",
+                "pinyin": "bái",
+                "meaning": "white",
+                "part_of_speech": "adj.",
+                "page": 3
+            },
+            {
+                "hanzi": "好吃",
+                "pinyin": "hǎochī",
+                "meaning": "delicious, yummy",
+                "part_of_speech": "adj.",
+                "page": 3
+            },
+            {
+                "hanzi": "宾馆",
+                "pinyin": "bīnguǎn",
+                "meaning": "hotel",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "游泳",
+                "pinyin": "yóu yǒng",
+                "meaning": "to swim",
+                "part_of_speech": "v.",
+                "page": 3
+            }
+        ]
+    },
+    {
+        "lesson": 8,
+        "title": "Buying Things",
+        "resource": {
+            "pdf_file": "HSK 2 Lesson 8 - Lecture Note (Ebook).pdf",
+            "start_page": 1,
+            "end_page": 9
+        },
+        "vocabulary": [
+            {
+                "hanzi": "一起",
+                "pinyin": "yìqǐ",
+                "meaning": "together",
+                "part_of_speech": "adv.",
+                "page": 3
+            },
+            {
+                "hanzi": "生日",
+                "pinyin": "shēngrì",
+                "meaning": "birthday",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "件",
+                "pinyin": "jiàn",
+                "meaning": "measure word for clothes",
+                "part_of_speech": "m.",
+                "page": 3
+            },
+            {
+                "hanzi": "您",
+                "pinyin": "nín",
+                "meaning": "honorific for \"you\"",
+                "part_of_speech": "pron.",
+                "page": 3
+            },
+            {
+                "hanzi": "粉色",
+                "pinyin": "fěnsè",
+                "meaning": "pink",
+                "part_of_speech": "adj.",
+                "page": 3
+            },
+            {
+                "hanzi": "别的",
+                "pinyin": "biéde",
+                "meaning": "other",
+                "part_of_speech": "pron.",
+                "page": 3
+            },
+            {
+                "hanzi": "颜色",
+                "pinyin": "yánsè",
+                "meaning": "color",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "黑",
+                "pinyin": "hēi",
+                "meaning": "black",
+                "part_of_speech": "adj.",
+                "page": 3
+            },
+            {
+                "hanzi": "拿",
+                "pinyin": "ná",
+                "meaning": "to hold, to take",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "就",
+                "pinyin": "jiù",
+                "meaning": "conclusion or resolution",
+                "part_of_speech": "adv.",
+                "page": 3
+            },
+            {
+                "hanzi": "服务员",
+                "pinyin": "fúwùyuán",
+                "meaning": "waiter/waitress",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "比",
+                "pinyin": "bǐ",
+                "meaning": "than",
+                "part_of_speech": "prep.",
+                "page": 3
+            },
+            {
+                "hanzi": "羊肉",
+                "pinyin": "yángròu",
+                "meaning": "mutton, lamb",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "鱼",
+                "pinyin": "yú",
+                "meaning": "fish",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "洗手间",
+                "pinyin": "xǐshǒujiān",
+                "meaning": "bathroom, washroom",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "洗",
+                "pinyin": "xǐ",
+                "meaning": "to wash",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "手",
+                "pinyin": "shǒu",
+                "meaning": "hand",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "门",
+                "pinyin": "mén",
+                "meaning": "door, gate",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "外",
+                "pinyin": "wài",
+                "meaning": "outer, outside",
+                "part_of_speech": "n.",
+                "page": 3
+            }
+        ]
+    },
+    {
+        "lesson": 9,
+        "title": "Getting ill",
+        "resource": {
+            "pdf_file": "HSK 2 Lesson 9 - Lecture Note (Ebook).pdf",
+            "start_page": 1,
+            "end_page": 9
+        },
+        "vocabulary": [
+            {
+                "hanzi": "生病",
+                "pinyin": "shēng bìng",
+                "meaning": "to fall ill",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "一直",
+                "pinyin": "yìzhí",
+                "meaning": "always",
+                "part_of_speech": "adv.",
+                "page": 3
+            },
+            {
+                "hanzi": "事情",
+                "pinyin": "shìqing",
+                "meaning": "thing, matter",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "忙",
+                "pinyin": "máng",
+                "meaning": "busy",
+                "part_of_speech": "adj.",
+                "page": 3
+            },
+            {
+                "hanzi": "因为",
+                "pinyin": "yīnwèi",
+                "meaning": "because",
+                "part_of_speech": "conj.",
+                "page": 3
+            },
+            {
+                "hanzi": "所以",
+                "pinyin": "suǒyǐ",
+                "meaning": "so, therefore",
+                "part_of_speech": "conj.",
+                "page": 3
+            },
+            {
+                "hanzi": "出院",
+                "pinyin": "chū yuàn",
+                "meaning": "to leave hospital",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "完",
+                "pinyin": "wán",
+                "meaning": "to finish",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "按时",
+                "pinyin": "ànshí",
+                "meaning": "on time",
+                "part_of_speech": "adv.",
+                "page": 3
+            },
+            {
+                "hanzi": "药",
+                "pinyin": "yào",
+                "meaning": "medicine",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "水果",
+                "pinyin": "shuǐguǒ",
+                "meaning": "fruit",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "运动",
+                "pinyin": "yùndòng",
+                "meaning": "sport, to exercise",
+                "part_of_speech": "v./n.",
+                "page": 3
+            },
+            {
+                "hanzi": "错",
+                "pinyin": "cuò",
+                "meaning": "wrong",
+                "part_of_speech": "adj.",
+                "page": 3
+            },
+            {
+                "hanzi": "跑步",
+                "pinyin": "pǎo bù",
+                "meaning": "to run, to jog",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "经常",
+                "pinyin": "jīngcháng",
+                "meaning": "often, frequently",
+                "part_of_speech": "adv.",
+                "page": 3
+            },
+            {
+                "hanzi": "打篮球",
+                "pinyin": "dǎ lánqiú",
+                "meaning": "to play basketball",
+                "part_of_speech": "",
+                "page": 3
+            },
+            {
+                "hanzi": "踢足球",
+                "pinyin": "tī zúqiú",
+                "meaning": "to play football",
+                "part_of_speech": "",
+                "page": 3
+            },
+            {
+                "hanzi": "更",
+                "pinyin": "gèng",
+                "meaning": "more",
+                "part_of_speech": "adv.",
+                "page": 3
+            }
+        ]
+    },
+    {
+        "lesson": 10,
+        "title": "Celebrating a Birthday",
+        "resource": {
+            "pdf_file": "HSK 2 Lesson 10 - Lecture Note (Ebook).pdf",
+            "start_page": 1,
+            "end_page": 9
+        },
+        "vocabulary": [
+            {
+                "hanzi": "问",
+                "pinyin": "wèn",
+                "meaning": "to ask",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "问题",
+                "pinyin": "wèntí",
+                "meaning": "question, problem",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "阿姨",
+                "pinyin": "āyí",
+                "meaning": "aunt",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "面条",
+                "pinyin": "miàntiáo",
+                "meaning": "noodles",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "希望",
+                "pinyin": "xīwàng",
+                "meaning": "to hope, to wish",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "生命",
+                "pinyin": "shēngmìng",
+                "meaning": "life",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "长",
+                "pinyin": "cháng",
+                "meaning": "long",
+                "part_of_speech": "adj.",
+                "page": 3
+            },
+            {
+                "hanzi": "娃娃",
+                "pinyin": "wáwa",
+                "meaning": "doll",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "它",
+                "pinyin": "tā",
+                "meaning": "it",
+                "part_of_speech": "pron.",
+                "page": 3
+            },
+            {
+                "hanzi": "唱歌",
+                "pinyin": "chàng gē",
+                "meaning": "to sing",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "跳舞",
+                "pinyin": "tiào wǔ",
+                "meaning": "to dance",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "照相",
+                "pinyin": "zhào xiàng",
+                "meaning": "to take a picture",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "高",
+                "pinyin": "gāo",
+                "meaning": "tall, high",
+                "part_of_speech": "adj.",
+                "page": 3
+            },
+            {
+                "hanzi": "往",
+                "pinyin": "wǎng",
+                "meaning": "to, towards",
+                "part_of_speech": "prep.",
+                "page": 3
+            },
+            {
+                "hanzi": "左边",
+                "pinyin": "zuǒbian",
+                "meaning": "left side",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "右边",
+                "pinyin": "yòubian",
+                "meaning": "right side",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "笑",
+                "pinyin": "xiào",
+                "meaning": "to smile, to laugh",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "意思",
+                "pinyin": "yìsi",
+                "meaning": "meaning",
+                "part_of_speech": "n.",
+                "page": 3
+            }
+        ]
+    },
+    {
+        "lesson": 11,
+        "title": "Chinese New Year",
+        "resource": {
+            "pdf_file": "HSK 2 Lesson 11 - Lecture Note (Ebook).pdf",
+            "start_page": 1,
+            "end_page": 8
+        },
+        "vocabulary": [
+            {
+                "hanzi": "姐姐",
+                "pinyin": "jiějie",
+                "meaning": "elder sister",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "弟弟",
+                "pinyin": "dìdi",
+                "meaning": "younger brother",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "次",
+                "pinyin": "cì",
+                "meaning": "times",
+                "part_of_speech": "m.",
+                "page": 3
+            },
+            {
+                "hanzi": "只有",
+                "pinyin": "zhǐyǒu",
+                "meaning": "only",
+                "part_of_speech": "conj.",
+                "page": 3
+            },
+            {
+                "hanzi": "阴",
+                "pinyin": "yīn",
+                "meaning": "overcast, cloudy",
+                "part_of_speech": "adj.",
+                "page": 3
+            },
+            {
+                "hanzi": "晴",
+                "pinyin": "qíng",
+                "meaning": "sunny, fine",
+                "part_of_speech": "adj.",
+                "page": 3
+            },
+            {
+                "hanzi": "眼睛",
+                "pinyin": "yǎnjing",
+                "meaning": "eye",
+                "part_of_speech": "n.",
+                "page": 3
+            }
+        ]
+    },
+    {
+        "lesson": 12,
+        "title": "Review",
+        "resource": {
+            "pdf_file": "HSK 2 Lesson 12 - Lecture Note (Ebook).pdf",
+            "start_page": 1,
+            "end_page": 4
+        },
+        "vocabulary": [
+            {
+                "hanzi": "度",
+                "pinyin": "dù",
+                "meaning": "degree",
+                "part_of_speech": "m.",
+                "page": 3
+            },
+            {
+                "hanzi": "说话",
+                "pinyin": "shuō huà",
+                "meaning": "speak, talk",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "祝",
+                "pinyin": "zhù",
+                "meaning": "to wish",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "长",
+                "pinyin": "zhǎng",
+                "meaning": "to grow",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "像",
+                "pinyin": "xiàng",
+                "meaning": "be like, look like",
+                "part_of_speech": "v./adj.",
+                "page": 3
+            },
+            {
+                "hanzi": "舅舅",
+                "pinyin": "jiùjiu",
+                "meaning": "uncle (mother's brother)",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "彩色",
+                "pinyin": "cǎisè",
+                "meaning": "colorful",
+                "part_of_speech": "adj.",
+                "page": 3
+            },
+            {
+                "hanzi": "铅笔",
+                "pinyin": "qiānbi",
+                "meaning": "pencil",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "西瓜",
+                "pinyin": "xīguā",
+                "meaning": "watermelon",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "鸡蛋",
+                "pinyin": "jīdàn",
+                "meaning": "chicken egg",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "骑",
+                "pinyin": "qí",
+                "meaning": "to ride",
+                "part_of_speech": "v.",
+                "page": 3
+            },
+            {
+                "hanzi": "自行车",
+                "pinyin": "zìxíngchē",
+                "meaning": "bike, bicycle",
+                "part_of_speech": "n.",
+                "page": 3
+            },
+            {
+                "hanzi": "贵",
+                "pinyin": "guì",
+                "meaning": "expensive",
+                "part_of_speech": "adj.",
+                "page": 4
+            },
+            {
+                "hanzi": "慢",
+                "pinyin": "màn",
+                "meaning": "slow",
+                "part_of_speech": "adj.",
+                "page": 4
+            }
+        ]
+    }
+]
