@@ -76,6 +76,9 @@ try {
 
     if (state.scope === 'lesson') {
       pool = [...currentLesson.vocabulary];
+    } else if (state.scope === 'hsk1_only') {
+      // Only HSK1 vocabulary
+      pool = lessons.filter(l => l.level === 'HSK1').flatMap(l => l.vocabulary);
     } else if (state.scope === 'hsk2_cumulative') {
       // All HSK2 lessons up to current
       const currentNum = currentLesson.lesson;
@@ -157,8 +160,9 @@ try {
     </div>
 
     ${state.showPdf ? `
-      <div class="card" style="height: 60vh; padding: 0; overflow: hidden; margin-bottom: 1rem;">
-        <object data="${pdfUrl}" type="application/pdf" width="100%" height="100%">
+      <div class="pdf-overlay">
+        <button class="close-pdf-btn" onclick="window.togglePdf()">Close PDF</button>
+        <object data="${pdfUrl}" type="application/pdf">
             <p><a href="${pdfUrl}">Download PDF</a></p>
         </object>
       </div>
@@ -166,6 +170,7 @@ try {
 
     <div class="scope-selector">
       <button class="scope-btn ${state.scope === 'lesson' ? 'active' : ''}" onclick="window.setScope('lesson')">Lesson Only</button>
+      <button class="scope-btn ${state.scope === 'hsk1_only' ? 'active' : ''}" onclick="window.setScope('hsk1_only')">HSK1 Only</button>
       <button class="scope-btn ${state.scope === 'hsk2_cumulative' ? 'active' : ''}" onclick="window.setScope('hsk2_cumulative')">HSK2+</button>
       <button class="scope-btn ${state.scope === 'all_cumulative' ? 'active' : ''}" onclick="window.setScope('all_cumulative')">All+</button>
     </div>
